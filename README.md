@@ -83,3 +83,8 @@ Below is the provided website design layout your you to follow with all of the s
 5. Content text alignment needs to be justified. 
 6. Content and image together should have a margin of 3em.
 
+# Live Website
+
+Follow the link below to see this website live.
+
+https://mrhollykkhs.github.io/
